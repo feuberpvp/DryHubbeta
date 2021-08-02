@@ -2,7 +2,7 @@
 local success = "LOADING DRYHUB"
 local fail = "Something went Wrong!"
 
-_G.Key = "DryIsCool"
+
 
 local whitelist = true
 local function Check(t,f)
